@@ -1,0 +1,13 @@
+{
+  "name": "rollup-plugin-jsdoc2md",
+  "version": "0.0.1",
+  "description": "Rollup plugin to create markdown from your bundle",
+  "main": "index.js",
+  "repository": "git@github.com:christianheine/rollup-plugin-jsdoc2md.git",
+  "author": "Christian Heine",
+  "license": "MIT",
+  "dependencies": {
+    "@faden/matcher": "^1.4.1",
+    "jsdoc-to-markdown": "^5.0.3"
+  }
+}
